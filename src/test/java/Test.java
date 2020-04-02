@@ -32,7 +32,7 @@ public void TestSel() throws SQLException {
 		
 		Product p=new Product(1,"soft",3);
 
-		//p.insertProduct(p);
+		p.insertProduct(p);
 		p.selectProduct(1);
 	
 		int ok = 0;
