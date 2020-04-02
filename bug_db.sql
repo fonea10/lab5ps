@@ -6,7 +6,7 @@
 -- Generation Time: Apr 02, 2020 at 03:48 PM
 -- Server version: 10.1.16-MariaDB
 -- PHP Version: 7.0.9
-
+use bug_db;
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
 
